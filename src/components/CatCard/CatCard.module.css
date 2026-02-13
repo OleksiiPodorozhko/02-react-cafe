@@ -1,0 +1,11 @@
+.catCard {
+  border: 1px solid black;
+}
+
+.available {
+  background-color: lightgray;
+}
+
+.notAvailable {
+  background-color: red;
+}
